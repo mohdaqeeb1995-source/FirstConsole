@@ -12,6 +12,7 @@ namespace FirstConsole
         {
 
             Console.WriteLine("Hello World");
+            Console.WriteLine("Added one line");
         }
     }
 }
